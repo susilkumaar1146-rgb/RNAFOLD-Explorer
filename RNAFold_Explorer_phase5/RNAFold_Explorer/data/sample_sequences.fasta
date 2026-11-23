@@ -1,0 +1,17 @@
+; RNAFold Explorer example sequences
+; "Synthetic" sequences were designed for this project to demonstrate one
+; structural feature each; they are not natural RNAs.
+>Simple hairpin (synthetic, proposal slide 5 wild type)
+GGGGAAAACCCC
+>Slide 5 mutant C12A (synthetic)
+GGGGAAAACCCA
+>Hairpin with G-U wobble pairs (synthetic)
+GGGUGCAAAAGUACCC
+>Stem with a single-nucleotide bulge (synthetic)
+GGGGAGGGGAAAACCCCCCCC
+>Stem with a 2x2 internal loop (synthetic)
+GGGGAAGGGGAAAACCCCAACCCC
+>Two-hairpin multiloop (synthetic)
+GGGCCCAAGCUCGAAAGAGCAAUGGACGAAAGUCCAUAAGGGCCC
+>Saccharomyces cerevisiae tRNA-Phe, 76 nt (modified bases written as unmodified A/U/G/C)
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
